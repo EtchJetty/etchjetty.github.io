@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "FontStuck";
+  src: url("FontStuck-Extended.ttf") format("truetype");
+}
+
+.bigstuck {
+  font-family: "FontStuck", "Courier New", Courier, monospace;
+}
